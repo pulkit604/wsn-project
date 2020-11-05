@@ -13,4 +13,4 @@ processing to manually control the appliances.
 
 
 
-![alt text] (https://raw.githubusercontent.com/pulkit604/wsn-project/master/Circuit%20Diagram.png)
+![alt text](https://raw.githubusercontent.com/pulkit604/wsn-project/master/Circuit%20Diagram.png)
